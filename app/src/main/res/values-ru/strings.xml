@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">myNotes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_note">Новая заметка</string>
+    <string name="Description">Описание...</string>
+    <string name="Title">Заголовок...</string>
+    <string name="save">Сохранить</string>
+    <string name="Back">Назад</string>
+    <string name="my_notes">Мои заметки</string>
+    <string name="new_note">Новая заметка</string>
+    <string name="my_note">Моя заметка</string>
+    <string name="fill_in_the_fields">Заполните поля</string>
+    <string name="saved">Сохранено</string>
+    <string name="deleted">Удалено</string>
+    <string name="fill_the_fields">Заполните поля</string>
+    <string name="Saved">Сохранено</string>
+    <string name="Deleted">Удалено</string>
+    <string name="Removal">Удаление заметки</string>
+    <string name="Warning_removal">Вы действительно хотите удалить заметку?</string>
+    <string name="No">Нет</string>
+    <string name="Yes">Да</string>
+
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size_add_note">32sp</dimen>
+    <dimen name="margin">8dp</dimen>
+    <dimen name="description_text">20sp</dimen>
+    <dimen name="padding">4dp</dimen>
+    <dimen name="text_size_one_note">32sp</dimen>
+    <dimen name="cardCornerRadius">8dp</dimen>
+    <dimen name="cardElevation">8dp</dimen>
+</resources>

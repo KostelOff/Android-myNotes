@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">myNotes</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_note">New note</string>
+    <string name="Description">Description...</string>
+    <string name="Title">Title...</string>
+    <string name="save">Save</string>
+    <string name="Back">Back</string>
+    <string name="my_notes">My notes</string>
+    <string name="new_note">New note</string>
+    <string name="my_note">My note</string>
+    <string name="fill_in_the_fields">Fill in the fields</string>
+    <string name="saved">Saved</string>
+    <string name="deleted">Deleted</string>
+    <string name="fill_the_fields">Fill the fields</string>
+    <string name="Saved">Saved</string>
+    <string name="Deleted">Deleted</string>
+    <string name="Removal">Removal note</string>
+    <string name="Warning_removal">Do you really want to delete the note?</string>
+    <string name="No">No</string>
+    <string name="Yes">Yes</string>
+
+</resources>
